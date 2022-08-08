@@ -112,3 +112,33 @@ body{
 .third h3{
     margin-left: 30px;
 }
+.second-continer{
+    width:870px ;
+    height:300px ;
+    display: flex;
+    justify-content: space-around;
+    background-color: azure;
+    margin-left: 285px;
+    margin-top: 35px;
+}
+.corces{
+    max-width: 33.3%;
+}
+.cources-img{
+    width: 85%;
+    padding-right: 30px;
+    padding-top: 50px;
+}
+.img2{
+    padding-left: 20px;
+}
+.second-continer h2{
+    padding-left: 20px;
+}
+.display{
+    display: flex;
+}
+.display img{
+    max-width: 7%;
+    margin-left: 20px;
+}
